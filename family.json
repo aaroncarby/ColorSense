@@ -1,0 +1,19 @@
+{
+"Red": {"min": 0, "max": 10},
+"Red Orange": {"min": 11, "max": 20},
+"Orange & Brown": {"min": 21, "max": 40},
+"Orange Yellow": {"min": 41, "max": 50},
+"Yellow": {"min": 51, "max": 60},
+"Yellow Green": {"min": 61, "max": 80},
+"Green": {"min": 81, "max": 140},
+"Green Cyan": {"min": 141, "max": 169},
+"Cyan": {"min": 170, "max": 200},
+"Cyan Blue": {"min": 201, "max": 220},
+"Blue": {"min": 221, "max": 240},
+"Blue Purple": {"min": 241, "max": 280},
+"Purple": {"min": 281, "max": 320},
+"Purple Pink": {"min": 321, "max": 330},
+"Pink": {"min": 331, "max": 345},
+"Pink Red": {"min": 346, "max": 355},
+"Red ": {"min": 355, "max": 360}
+} 		
